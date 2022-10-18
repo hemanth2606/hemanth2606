@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth KS</h1>
-<h3 align="center">A budding technophile, Learner,coding enthusiast, electronics lover,a team player.</h3>
+<h3 align="center">A budding technophile,coding enthusiast,electronics lover,a team player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth2606&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth2606" /> </p>
 
